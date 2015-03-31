@@ -1,4 +1,7 @@
-/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/MonoAndroid,Version=v5.0.AssemblyAttribute.cs
+/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/Newtonsoft.Json.dll
+/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorAppPortableLibrary.dll
+/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorAppPortableLibrary.dll.mdb
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorApp.dll.mdb
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorApp.dll
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorApp.TutorApp.apk
@@ -11,12 +14,9 @@
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/res/drawable-xxhdpi/icon.png
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/res/drawable-xxxhdpi/icon.png
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/res/layout/startpagelayout.xml
-/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/res/layout/startpage.xml
+/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/res/layout/addnewlessonlayout.xml
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/R.cs.flag
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorApp.TutorApp-Signed.apk
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/uploadflags.txt
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/TutorApp.dll
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/TutorApp.dll.mdb
-/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorAppPortableLibrary.dll
-/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorAppPortableLibrary.dll.mdb
-/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs

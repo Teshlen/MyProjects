@@ -1,12 +1,18 @@
 ﻿using System;
 
-namespace TutorAppPortableLibrary
+namespace TutorAppPortableLibrary.Models
 {
 	public class TutorModel
 	{
-		public TutorModel ()
-		{
+		public String Name {
+			get;
+			set;
 		}
+		public string password {
+			get;
+			set;
+		}
+			
 	}
 }
 

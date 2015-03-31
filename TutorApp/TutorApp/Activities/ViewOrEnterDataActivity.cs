@@ -13,20 +13,15 @@ using Android.Widget;
 
 namespace TutorApp
 {
-	[Activity (Label = "LoginActivity")]			
-	public class LoginActivity : Activity
+	[Activity (Label = "ViewOrEnterDataActivity")]			
+	public class ViewOrEnterDataActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
-		{ var count = 1;
+		{
 			base.OnCreate (bundle);
-			SetContentView (Resource.Layout.StartPageLayout);
 
-			Button loginButton = FindViewById<Button> (Resource.Id.continueButton);
-			loginButton.Click += delegate {
-				loginButton.Text = ++count+"";
-			};
+			// Create your application here
 		}
-
 	}
 }
 

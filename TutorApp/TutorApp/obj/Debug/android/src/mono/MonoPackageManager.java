@@ -68,6 +68,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"TutorApp.dll",
+		"Newtonsoft.Json.dll",
 		"TutorAppPortableLibrary.dll",
 		"System.Collections.Concurrent.dll",
 		"System.Collections.dll",

@@ -1,4 +1,5 @@
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorApp/bin/Debug/TutorApp.dll
+/Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
 /Users/Teshlen/Documents/GitHub/MyProjects/TutorApp/TutorAppPortableLibrary/bin/Debug/TutorAppPortableLibrary.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.Concurrent.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.dll

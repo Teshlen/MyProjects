@@ -1,7 +1,7 @@
 package tutorapp;
 
 
-public class LoginActivity
+public class ViewOrEnterDataActivity
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -11,15 +11,15 @@ public class LoginActivity
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("TutorApp.LoginActivity, TutorApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", LoginActivity.class, __md_methods);
+		mono.android.Runtime.register ("TutorApp.ViewOrEnterDataActivity, TutorApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", ViewOrEnterDataActivity.class, __md_methods);
 	}
 
 
-	public LoginActivity () throws java.lang.Throwable
+	public ViewOrEnterDataActivity () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == LoginActivity.class)
-			mono.android.TypeManager.Activate ("TutorApp.LoginActivity, TutorApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == ViewOrEnterDataActivity.class)
+			mono.android.TypeManager.Activate ("TutorApp.ViewOrEnterDataActivity, TutorApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 
