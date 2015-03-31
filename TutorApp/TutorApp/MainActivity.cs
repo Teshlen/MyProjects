@@ -26,10 +26,7 @@ namespace TutorApp
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
 			button.Click += delegate {
-
-				SetContentView(Resource.Layout.StartPageLayout);
-				
-				//button.Text = string.Format ("{0} clicks!", count++);
+				StartActivity(typeof(LoginActivity));
 			};
 		}
 	}

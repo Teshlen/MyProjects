@@ -1,1 +1,2 @@
 TutorApp.MainActivity;tutorapp.MainActivity
+TutorApp.LoginActivity;tutorapp.LoginActivity
