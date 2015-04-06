@@ -1,4 +1,0 @@
-TutorApp.MainActivity;tutorapp.MainActivity
-TutorApp.Actvities.LoginActivity;tutorapp.actvities.LoginActivity
-TutorApp.ViewOrEnterDataActivity;tutorapp.ViewOrEnterDataActivity
-TutorApp.AddNewLesson;tutorapp.AddNewLesson
