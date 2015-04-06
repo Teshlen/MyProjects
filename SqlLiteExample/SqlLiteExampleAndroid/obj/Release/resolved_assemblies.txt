@@ -1,0 +1,7 @@
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Release\SqlLiteExampleAndroid.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+A:\Random Projects\SqlLiteExample\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll

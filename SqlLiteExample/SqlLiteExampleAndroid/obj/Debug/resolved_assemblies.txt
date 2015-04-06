@@ -1,0 +1,2 @@
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Debug\SqlLiteExampleAndroid.dll
+A:\Random Projects\SqlLiteExample\Components\sqlite-net-1.0.8.3\lib\android\SQLite.dll

@@ -1,0 +1,17 @@
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Release\SqlLiteExampleAndroid.dll
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Release\SqlLiteExampleAndroid.pdb
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Release\SqlLiteExampleAndroid.SqlLiteExampleAndroid.apk
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Release\SqlLiteExampleAndroid.SqlLiteExampleAndroid-Signed.apk
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\bin\Release\SQLite.dll
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\SqlLiteExampleAndroid.dll
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\SqlLiteExampleAndroid.pdb
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\android\bin\SqlLiteExampleAndroid.SqlLiteExampleAndroid.apk
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\layout\main.xml
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\values\strings.xml
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\drawable-hdpi\icon.png
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\drawable-mdpi\icon.png
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\drawable-xhdpi\icon.png
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\drawable-xxhdpi\icon.png
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\res\drawable-xxxhdpi\icon.png
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\R.cs.flag
+A:\Random Projects\SqlLiteExample\SqlLiteExampleAndroid\obj\Release\uploadflags.txt
